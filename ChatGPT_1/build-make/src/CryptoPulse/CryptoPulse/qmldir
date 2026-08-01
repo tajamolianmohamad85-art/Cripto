@@ -1,0 +1,13 @@
+module CryptoPulse
+typeinfo CryptoPulse.qmltypes
+prefer :/qt/qml/CryptoPulse/
+Main 1.0 Main.qml
+singleton Palette 1.0 Palette.qml
+AppHeader 1.0 AppHeader.qml
+StatusBanner 1.0 StatusBanner.qml
+WatchlistPanel 1.0 WatchlistPanel.qml
+CoinDelegate 1.0 CoinDelegate.qml
+CoinDetail 1.0 CoinDetail.qml
+PriceChart 1.0 PriceChart.qml
+depends QtQuick
+

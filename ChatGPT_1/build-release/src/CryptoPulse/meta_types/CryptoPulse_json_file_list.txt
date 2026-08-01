@@ -1,0 +1,2 @@
+/home/meysam/Projects/ChatGPT_1/build-release/src/CryptoPulse/CryptoPulse_autogen/include/../EWIEGA46WW/moc_appcontroller.cpp.json
+/home/meysam/Projects/ChatGPT_1/build-release/src/CryptoPulse/CryptoPulse_autogen/include/../EWIEGA46WW/moc_watchlistmodel.cpp.json

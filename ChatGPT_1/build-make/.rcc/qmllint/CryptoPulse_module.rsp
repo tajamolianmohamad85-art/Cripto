@@ -1,0 +1,14 @@
+-I
+/home/meysam/Projects/ChatGPT_1/build-make
+-I
+/home/meysam/Projects/ChatGPT_1/build-make/src/CryptoPulse/CryptoPulse
+-I
+/home/meysam/Projects/ChatGPT_1/build-make/src/CryptoPulse
+-I
+/usr/lib/qt6/qml
+--resource
+/home/meysam/Projects/ChatGPT_1/build-make/src/CryptoPulse/.qt/rcc/qmake_CryptoPulse.qrc
+--resource
+/home/meysam/Projects/ChatGPT_1/build-make/src/CryptoPulse/.qt/rcc/CryptoPulse_raw_qml_0.qrc
+--module
+CryptoPulse

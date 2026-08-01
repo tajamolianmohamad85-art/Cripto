@@ -1,0 +1,16 @@
+-rootPath
+/home/meysam/Projects/ChatGPT_1/src/CryptoPulse
+-cmake-output
+-output-file
+/home/meysam/Projects/ChatGPT_1/build-new/src/CryptoPulse/.qt/qml_imports/CryptoPulse_conf.cmake
+-importPath
+/home/meysam/Projects/ChatGPT_1/build-new/src/CryptoPulse
+-importPath
+/home/meysam/Projects/ChatGPT_1/build-new/qml/CryptoPulse
+-importPath
+/home/meysam/Projects/ChatGPT_1/build-new/qml
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/meysam/Projects/ChatGPT_1/build-new/src/CryptoPulse/.qt/rcc/qmake_CryptoPulse.qrc
+/home/meysam/Projects/ChatGPT_1/build-new/src/CryptoPulse/.qt/rcc/CryptoPulse_raw_qml_0.qrc

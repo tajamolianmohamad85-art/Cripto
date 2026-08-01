@@ -1,0 +1,19 @@
+{
+    "classes": [
+        {
+            "className": "WatchlistModel",
+            "final": true,
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "WatchlistModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "watchlistmodel.h",
+    "outputRevision": 69
+}

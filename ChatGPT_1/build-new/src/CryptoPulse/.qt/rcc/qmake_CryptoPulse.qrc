@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CryptoPulse">
+    <file alias="qmldir">/home/meysam/Projects/ChatGPT_1/build-new/qml/CryptoPulse/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/CryptoPulse/">
+    <file alias="Main.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/Main.qml</file>
+    <file alias="Theme.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/Theme.qml</file>
+    <file alias="AppHeader.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/AppHeader.qml</file>
+    <file alias="StatusBanner.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/StatusBanner.qml</file>
+    <file alias="WatchlistPanel.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/WatchlistPanel.qml</file>
+    <file alias="CoinDelegate.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/CoinDelegate.qml</file>
+    <file alias="CoinDetail.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/CoinDetail.qml</file>
+    <file alias="PriceChart.qml">/home/meysam/Projects/ChatGPT_1/src/CryptoPulse/PriceChart.qml</file>
+  </qresource>
+</RCC>
+

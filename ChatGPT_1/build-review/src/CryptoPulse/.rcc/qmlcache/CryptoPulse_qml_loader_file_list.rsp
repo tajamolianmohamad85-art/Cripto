@@ -1,0 +1,12 @@
+--resource
+/home/meysam/Projects/ChatGPT_1/build-review/src/CryptoPulse/.qt/rcc/qmake_CryptoPulse.qrc
+--resource
+/home/meysam/Projects/ChatGPT_1/build-review/src/CryptoPulse/.qt/rcc/CryptoPulse_raw_qml_0.qrc
+/qt/qml/CryptoPulse/Main.qml
+/qt/qml/CryptoPulse/Theme.qml
+/qt/qml/CryptoPulse/AppHeader.qml
+/qt/qml/CryptoPulse/StatusBanner.qml
+/qt/qml/CryptoPulse/WatchlistPanel.qml
+/qt/qml/CryptoPulse/CoinDelegate.qml
+/qt/qml/CryptoPulse/CoinDetail.qml
+/qt/qml/CryptoPulse/PriceChart.qml

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/meysam/Projects/ChatGPT_1/build-review/cmake_install.cmake",
+		"/home/meysam/Projects/ChatGPT_1/build-review/src/CryptoPulse/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
